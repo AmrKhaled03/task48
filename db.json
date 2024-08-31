@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "a9d6",
+      "title": "apple",
+      "price": "200",
+      "inCart": false
+    },
+    {
+      "id": "deda",
+      "title": "orange",
+      "price": "11",
+      "inCart": false
+    },
+    {
+      "id": "56a5",
+      "title": "banana",
+      "price": "33",
+      "inCart": false
+    },
+    {
+      "id": "a5b7",
+      "title": "grape",
+      "price": "155",
+      "inCart": false
+    }
+  ],
+  "users": [
+    {
+      "id": "c5c9",
+      "name": "alaa",
+      "email": "alaa@yahoo.com",
+      "password": "alaa",
+      "rule": "user",
+      "isRegistered": true,
+      "isLoggedIn": true
+    },
+    {
+      "id": "920e",
+      "name": "amr",
+      "email": "amr@yahoo.com",
+      "password": "amr",
+      "rule": "admin",
+      "isRegistered": true,
+      "isLoggedIn": false
+    }
+  ],
+  "cart": []
+}
